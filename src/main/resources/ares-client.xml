@@ -8,7 +8,7 @@
 
     <!-- 引入远程服务 -->
     <AresClient:reference id="remoteHelloService"
-                          interface="ares.remoting.test.HelloService"
+                          interface="com.kerry.rpc.test.HelloService"
                           clusterStrategy="WeightRandom"
                           remoteAppKey="ares"
                           groupName="default"

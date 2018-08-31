@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ares-remoting</groupId>
-    <artifactId>remoting</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <groupId>com.kerry.rpc</groupId>
+    <artifactId>starter-kerrp-rpc</artifactId>
+    <version>1.0.1</version>
 
-    <name>ares-remoting</name>
+    <name>kerrp-rpc</name>
     <url>http://maven.apache.org</url>
 
     <properties>
